@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "129431108055",
+    "firebase_url": "https://alexok-f50d1.firebaseio.com",
+    "project_id": "alexok-f50d1",
+    "storage_bucket": "alexok-f50d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129431108055:android:427fb61d641ef4f2",
+        "android_client_info": {
+          "package_name": "tw.alex.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129431108055-9rqjrr3qqloiurqk3hdcslmt8r4bq42b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.alex.firebasetest",
+            "certificate_hash": "f00a0c6a9640af8b06f266d617e520b1bb8883f9"
+          }
+        },
+        {
+          "client_id": "129431108055-ls9rqfg5s51fcr2sh4g517097nv2a4dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HJ7FsaPnE1dqcSiC-VSmEjMCq3H5GFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129431108055-ls9rqfg5s51fcr2sh4g517097nv2a4dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
